@@ -73,7 +73,7 @@ img {
 }
 
 .hero .container {
-    background: url('./img\ /hero1.png') no-repeat;
+    background: url('./img/hero1.png') no-repeat;
     background-size: contain;
     background-position: center bottom;
     height: 650px;
@@ -252,7 +252,7 @@ p {
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    background: url('./img\ /kontaktBG.png') no-repeat center center/cover;
+    background: url('./img/kontaktBG.png') no-repeat center center/cover;
 }
 
 .contact .content {
@@ -564,7 +564,7 @@ p {
     }
 
     .hero .container {
-        background: url('./img\ /løsdet-mobil.png') no-repeat;
+        background: url('./img/løsdet-mobil.png') no-repeat;
         background-size: 500px 600px;
         background-position: bottom;
         height: 800px;
